@@ -1,0 +1,19 @@
+.category{
+    padding:0 20px;
+    border-radius: 30px;
+
+    &--red {
+        background-color: rgb(253, 106, 106);
+        color: white;
+    }
+
+    &--yellow {
+        background-color: rgb(245, 255, 153);
+        color: black;
+    }
+
+    &--green {
+        background-color: rgb(149, 255, 172);
+        color: black;
+    }
+}

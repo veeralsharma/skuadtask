@@ -1,0 +1,11 @@
+.actions-visible {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.action-button{
+    background-color: white;
+    border: none;
+}
